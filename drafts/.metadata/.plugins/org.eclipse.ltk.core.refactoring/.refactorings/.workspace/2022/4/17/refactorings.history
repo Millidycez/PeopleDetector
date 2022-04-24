@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;sensor_ultrasonic&apos;" deleteContents="false" description="Delete resource &apos;sensor_ultrasonic&apos;" element1="/sensor_ultrasonic" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1650678953448"/>&#x0A;<refactoring comment="Delete resource &apos;sensor_ultrasonic&apos;" deleteContents="false" description="Delete resource &apos;sensor_ultrasonic&apos;" element1="/sensor_ultrasonic" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1650679051939"/>
-</session>
