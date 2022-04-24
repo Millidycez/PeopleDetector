@@ -1,6 +1,7 @@
 # Eclipse
 .metadata/
 .settings/
+.mxproject
 [Rr]elease
 [Dd]ebug
 .launch
