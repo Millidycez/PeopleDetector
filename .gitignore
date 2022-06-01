@@ -1,7 +1,10 @@
 # Eclipse
 .metadata/
 .settings/
+<<<<<<< HEAD
+=======
 .mxproject
+>>>>>>> restoreData
 [Rr]elease
 [Dd]ebug
 .launch
